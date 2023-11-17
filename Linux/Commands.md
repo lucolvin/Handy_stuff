@@ -1,0 +1,3 @@
+- cat -> prints file in terminal
+- clear -> wipes terminal window
+- nano -> terminal text editor
