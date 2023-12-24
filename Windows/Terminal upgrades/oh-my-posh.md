@@ -1,14 +1,8 @@
 Browse themes
-```python
-get-poshthemes
-```
-```python
-    import requests
+```get-poshthemes```
 
-    response = requests.get('https://example.com')
-    print(response.text)
-    ```
 
 To change theme
-notepad $PROFILE
+```notepad $PROFILE```
+
 oh-my-posh init pwsh --config 'C:\Users\lukec\AppData\Local\Programs\oh-my-posh\themes\[CHANGE THIS TO NAME OF THEME].omp.json' | Invoke-Expression
